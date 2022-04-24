@@ -2,3 +2,4 @@
 
 
 Crash course gor git
+# rstrip
